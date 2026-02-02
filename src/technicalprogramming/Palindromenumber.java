@@ -83,3 +83,12 @@ public class Palindromenumber {
                 (String.valueOf(num).equals(rev) ? "Palindrome" : "Not Palindrome"));
     }
 }
+// palindrome of a number
+//reverse of a number
+//reverse of a string
+//amstrong number
+//factorial number
+//untitled number
+//titled number
+//udemy number
+//
