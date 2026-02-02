@@ -1,0 +1,26 @@
+HOW TO CRACK FAANG INTERVIEW
+
+Step 1: Strong Fundamentals
+- Java basics
+- OOPs concepts
+- Time & Space Complexity
+
+Step 2: DSA
+- Arrays
+- Strings
+- Recursion
+- Linked List
+- Stack & Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+Step 3: Daily Coding
+- Practice coding every day
+- Solve problems in multiple ways
+- Push code to GitHub
+
+Step 4: HR Preparation
+- Tell me about yourself
+- Project explanation
+- Strengths & weaknesses
